@@ -1,2 +1,13 @@
-# Data-Science-and-MLOps-Landscape
-A comprehensive analysis of the landscape of the data science and machine learning community with advanced visualization techniques.
+# Data Science and MLOps Landscape
+
+## Description
+
+Hi, welcome to my project! This project contains a comprehensive and thorough analysis of the of the ongoing trends in the industry of data science and machine learning. Thanks to the adoption of AI and other machine learning techniques, data science and machine learning skills are now highly sought after and dominate the market heavily.
+
+## Objective
+
+As the landscape of data science and machine learning keeps changing and continues its march to become one of the most sought after skill in the industry, this project is dedicated to analyzing those trends and patterns to extract valuable insights from those trends to help keep in touch with and knowing in which direction is the world headed to. In this project, I have taken data from Kaggle's most recent survey on data science and machine learning and tried to analyse the survey results to help me generate insights.
+
+## Contents
+
+I have used multiple advanced visualization techniques to help plot and visualise those data, with a magnitude of different types of plots. I also had to perform extensive data wrangling and manipulation to first bring the data into suitable format for plotting. Key features of the landscape like employments, machine learning state, tools and preferences have also been discussed while even lesser talked about features hardware usage have also been touched upon. The project consists of an insights html file in the project where I have discussed all the insights that I gained from this project and it is the only file that a user needs to read about ongoing trends in data science and machine learning.
