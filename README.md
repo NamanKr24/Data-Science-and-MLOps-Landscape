@@ -10,4 +10,8 @@ As the landscape of data science and machine learning keeps changing and continu
 
 ## Contents
 
-I have used multiple advanced visualization techniques to help plot and visualise those data, with a magnitude of different types of plots. I also had to perform extensive data wrangling and manipulation to first bring the data into suitable format for plotting. Key features of the landscape like employments, machine learning state, tools and preferences have also been discussed while even lesser talked about features hardware usage have also been touched upon. The project consists of an insights html file in the project where I have discussed all the insights that I gained from this project and it is the only file that a user needs to read about ongoing trends in data science and machine learning.
+I have used multiple advanced visualization techniques to help plot and visualise those data, with a magnitude of different types of plots. I also had to perform extensive data wrangling and manipulation to first bring the data into suitable format for plotting. Key features of the landscape like employments, machine learning state, tools and preferences have also been discussed while even lesser talked about features hardware usage have also been touched upon. All the insights and plots have been documented to generate a useful report.
+
+## Usage
+
+To explore the insights gained from this project, please refer to the insights html file in the project. In this file, I have discussed all the relevant information that I gained from this project about ongoing trends in data science and machine learning.
