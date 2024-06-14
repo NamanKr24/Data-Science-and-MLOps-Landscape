@@ -32,7 +32,7 @@ source("Platforms_Wrangling.R")
       ggplot (aes(x = reorder(Selected, Percentage), y = Percentage, fill = Selected)) +
       geom_bar(stat = "identity", width = 0.25, show.legend = FALSE) +
       coord_flip() +
-      labs(title = "Most helpful sources to study data science",
+      labs(title = "Most helpful resources for data science",
            y = "Percentage", x = "Platform") +
       geom_text(aes(label = paste0(round(Percentage, 1), "%")),
                 vjust = -0.5, size = 4,
