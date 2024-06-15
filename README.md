@@ -14,4 +14,4 @@ I have used multiple advanced visualization techniques to help plot and visualis
 
 ## Usage
 
-To explore the insights gained from this project, please refer to the Insights R Markdown file in the project and render it. In this file, I have discussed all the relevant information that I gained from this project about ongoing trends in data science and machine learning. The output will be an html document which contains all the insights and the plots embedded within it.
+To explore the insights gained from this project, please refer to the Insights HTML file in the project and render it. In this file, I have discussed all the relevant information that I gained from this project about ongoing trends in data science and machine learning with the generated plots embedded in it.
