@@ -61,6 +61,8 @@ The project aims to help individuals and teams align their skillsets with indust
 
 To better understand industry direction, here's a sample visualization from the final report:
 
+![Example plot](Project/Plots/34.png)
+
 ---
 
 ## ⚖️ License
